@@ -1,4 +1,4 @@
-# Docker-KodeKloud
+# Docker
 * What is the version of Docker Server Engine running on the Host?
 ```
 docker --version
